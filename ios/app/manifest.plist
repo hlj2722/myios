@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://hlj2722.github.io/myios/app/zhibo.ipa</string>
+					<string>https://hlj2722.github.io/myios/ios/app/zhibo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://hlj2722.github.io/myios/icons/appicon1.png</string>
+					<string>https://hlj2722.github.io/myios/ios/icons/appicon1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://hlj2722.github.io/myios/icons/appicon2.png</string>
+					<string>https://hlj2722.github.io/myios/ios/icons/appicon2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
